@@ -1,0 +1,36 @@
+
+/*
+*{
+    background-color: red;
+}
+p{
+    color: blue;
+}
+*/
+
+div p#holamundo{
+    background-color: purple;
+}
+
+h1, h2, h3 {
+    font-family: Comic Sans MS;
+}
+
+.subtitulo{
+    border: 1px white solid;
+}
+a:link{
+    color: chartreuse;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: cyan;
+}
+ul li:nth-child(2){
+    font-weight: bold;
+}
+ul li:nth-child(odd) {
+    color: red;
+}
